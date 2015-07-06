@@ -1,5 +1,5 @@
 # stack
-LIFO queue with 100% test coverage.
+A simple LIFO queue with 100% test coverage.
 
 
 ## Usage
